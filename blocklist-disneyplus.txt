@@ -1,7 +1,4 @@
-! disney -email images
-! ||cdn.registerdisney.go.com
-! ||click.mail.disneyplus.com
-! ||image.mail.disneyplus.com
+
 
 ! Disney plus domains
 ||global.edge.bamgrid.com
@@ -16,7 +13,15 @@
 ! **testing to see if this is required
 ||pcs.bamgrid.com
 
-! ****everything below here is still to be tested****
+! ** I was originally trying to convert this to a block list from this: https://github.com/91ajames/Disney-Plus-AdGuard-Pi-Hole/blob/main/whitelist-disneyplus.txt
+! ****everything below here is still to be tested as I don't think it's required****
+! ****Everything above here I've worked out myself from the adguard logs****
+
+! disney -email images
+! ||cdn.registerdisney.go.com
+! ||click.mail.disneyplus.com
+! ||image.mail.disneyplus.com
+
 ! disney.demdex.net !amazon stick - ublock plugin blocks this ||demdex.net^
 !||config-cd-dmgz.bamgrid.com
 !||cd-dmgz.bamgrid.com
