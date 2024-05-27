@@ -8,6 +8,8 @@
 !!!!!disney-plus!!!!!
 ||global.edge.bamgrid.com
 ||appconfigs.disney-plus.net
+||disney.content.edge.bamgrid.com
+||disney.connections.edge.bamgrid.com
 
 ! disney.demdex.net !amazon stick - ublock plugin blocks this ||demdex.net^
 ||config-cd-dmgz.bamgrid.com
