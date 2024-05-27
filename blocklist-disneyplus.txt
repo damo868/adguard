@@ -1,5 +1,3 @@
-
-
 ! Disney plus domains
 ||global.edge.bamgrid.com
 ||appconfigs.disney-plus.net
@@ -12,6 +10,7 @@
 
 ! **testing to see if this is required
 ||pcs.bamgrid.com
+
 
 ! ** I was originally trying to convert this to a block list from this: https://github.com/91ajames/Disney-Plus-AdGuard-Pi-Hole/blob/main/whitelist-disneyplus.txt
 ! ****everything below here is still to be tested as I don't think it's required****
