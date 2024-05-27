@@ -13,6 +13,8 @@
 ||disney.my.sentry.io
 ||disney.playback.edge.bamgrid.com
 
+! **testing to see if this is required
+||pcs.bamgrid.com
 
 ! ****everything below here is still to be tested****
 ! disney.demdex.net !amazon stick - ublock plugin blocks this ||demdex.net^
